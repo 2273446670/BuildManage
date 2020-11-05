@@ -1,0 +1,6 @@
+world:
+  res: true
+  break: false
+  place: false
+  blockBreakWhiteList:
+  blockPlaceWhiteList:

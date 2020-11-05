@@ -1,0 +1,5 @@
+name: BuildManage
+main: com.buildmanage.main.BuildManage
+version: 1.0.0
+author: ZhangJia
+#softdepend: Residence
